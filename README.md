@@ -9,3 +9,12 @@ My [CV](https://github.com/muhamadarifna/Portofolio-Arif/blob/main/CV_Muh%20Arif
 
 
 Outside of professional endeavors, I pursue photography, reflecting my detailed approach in both hobbies and data work. Dedicated to innovation, I am always eager to tackle new challenges in the dynamic field of data science.
+
+## Table Of Contents
+In this section, I will provide a brief overview of data analytics projects, highlighting the technology stack used to address each case.
+
+## Portofolio Project
+
+### Get data
+
+### Analyze
